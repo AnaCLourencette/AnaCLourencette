@@ -1,5 +1,5 @@
-- 👋 Oi, Sou @AnaLourencette.
+- 👋 Oi, Sou @AnaCLourencette.
 - 👀 Estou interessada em programação, com foco Mobile utilizando Swift/Xcode. 
 - 🌱 Atualmente estou cursando Engenharia da Computação e me aprofundando em conceitos de desenvolvimento Mobile.
 - 💞️ Procuro por estágio.
-- 📫 Você pode me contactar pelo meu Linkidin: [Ana Lourencette](www.linkedin.com/in/ana-lourencette). 
+- 📫 Você pode me contactar pelo meu Linkidin: [Ana C. Lourencette](www.linkedin.com/in/ana-lourencette). 
